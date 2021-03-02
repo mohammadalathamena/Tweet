@@ -1,0 +1,70 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.vl { 
+
+    box-shadow: 2px 0px #888888b5 ;
+    height: 90%;
+    margin-top: 25px;
+
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column ; 
+}
+.twitter-image-div{
+    text-align: center;
+}
+.twitter-image{
+    height: 150px;
+}
+.small-icon{
+    height: 50px !important;
+}
+.text-center {
+    text-align: center;
+}
+.access-div{
+    margin-top: 50px ;
+}
+.write-tweet-div{
+    margin-top: 30px ;
+}
+.space-between {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.nav-space {
+    margin-left: 25px ;
+}
+.link{
+    text-decoration: none ;
+}
+.link:link {
+    text-decoration: none;
+}
+
+.link:visited {
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: none;
+}
+
+.link:active {
+    text-decoration: none;
+}
+.error {
+    border-left: solid 25px red;
+    padding-left: 10px;
+    height: 40px;
+    padding-top: 10px;
+}
