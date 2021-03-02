@@ -16,7 +16,7 @@
 #### 1 - Download The Project 
 
 ```bash
-git clone https://github.com/mohammadalathamena/TwitterPoster.git
+git clone https://github.com/mohammadalathamena/Tweet.git
 ```
 
 ### 1 - Create Database
